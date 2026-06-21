@@ -6,10 +6,10 @@ const SITE_LANG = "zh_CN";
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "终于成功了？",
+	title: "李恩乐的秘密花园",
 
 	// 站点副标题
-	subtitle: "耶耶耶",
+	subtitle: "奶龙乐",
 
 	// 站点 URL
 	site_url: "https://fjofjoe.com",
