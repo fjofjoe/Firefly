@@ -9,7 +9,7 @@ export const siteConfig: SiteConfig = {
 	title: "终于成功了？",
 
 	// 站点副标题
-	subtitle: "Hello World!",
+	subtitle: "耶耶耶",
 
 	// 站点 URL
 	site_url: "https://fjofjoe.com",
