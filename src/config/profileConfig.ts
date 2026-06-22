@@ -9,10 +9,10 @@ export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/avatar_blue_night01.jpg",
 
 	// 名字
-	name: "Firefly",
+	name: "fjofjoe",
 
 	// 个人签名
-	bio: "Hello, I'm Firefly.",
+	bio: "长路漫漫，唯剑作伴~~~",
 
 	// 链接配置
 	// 已经预装的图标集：fa7-brands，fa7-regular，fa7-solid，material-symbols，simple-icons
@@ -24,7 +24,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "qq",
 			icon: "fa7-brands:qq",
-			url: "https://qm.qq.com/q/ZGsFa8qX2G",
+			url: "https://qm.qq.com/q/NtJ55P4l20",
 			showName: false,
 		},
 		{
